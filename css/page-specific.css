@@ -627,8 +627,16 @@
 }
 
 .value-icon {
-  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 12px;
+}
+
+.value-icon svg {
+  width: 40px;
+  height: 40px;
+  color: var(--accent);
 }
 
 .value-card h4 {

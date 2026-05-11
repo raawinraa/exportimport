@@ -679,8 +679,8 @@
 }
 
 @media (max-width: 768px) {
-  .rk-logo-text { display: none; }
-  .rk-logo-img { width: 40px; height: 40px; }
+  .rk-logo-text { font-size: 14px; }
+  .rk-logo-img { width: 36px; height: 36px; }
 }
 
 /* ===== Mobile Navigation ===== */
